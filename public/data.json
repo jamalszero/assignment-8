@@ -1,0 +1,150 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/Jdsr1WZ/Clothing.png",
+      "title": "Used Clothing Drive",
+      "description": "Join our clothing donation campaign and make a difference in the lives of those in need. Your gently used clothing can provide warmth and comfort to individuals facing challenging circumstances. Together, we can help ensure that everyone has access to clean and suitable clothing. Donate today and be a part of a positive change in our community.",
+      "donation_amount": 580,
+      "category": "Clothing",
+      "card_background_color": "#ccffcc",
+      "category_background_color": "#99ff99",
+      "text_color": "#33ff33",
+      "donate_and_view_details_btn_bg_color": "#00ff00"
+    },
+    
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/6BjFf5N/Food.png",
+      "title": "Better Food for Everyone",
+      "description": "Help us fight hunger in our community. Donate food, make a difference.",
+      "donation_amount": 440,
+      "category": "Food",
+      "card_background_color": "#ffe0cc",
+      "category_background_color": "#ffc299",
+      "text_color": "#ff8533",
+      "donate_and_view_details_btn_bg_color": "#ff751a"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/4T8FGyp/Health.png",
+      "title": "Clean water for children",
+      "description": "Help provide clean and safe drinking water to communities in need.",
+      "donation_amount": 265,
+      "category": "Health",
+      "card_background_color": "#cce0ff",
+      "category_background_color": "#99c2ff",
+      "text_color": "#3385ff",
+      "donate_and_view_details_btn_bg_color": " #0066ff"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/Jdsr1WZ/Clothing.png",
+      "title": "Used Clothing Drive",
+      "description": "Join our clothing donation campaign and make a difference in the lives of those in need. Your gently used clothing can provide warmth and comfort to individuals facing challenging circumstances. Together, we can help ensure that everyone has access to clean and suitable clothing. Donate today and be a part of a positive change in our community.",
+      "donation_amount": 835,
+      "category": "Clothing",
+      "card_background_color": "#ccffcc",
+      "category_background_color": "#99ff99",
+      "text_color": "#33ff33",
+      "donate_and_view_details_btn_bg_color": "#00ff00"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/3M3dPJn/Education.png",
+      "title": "Good education",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources.",
+      "donation_amount": 509,
+      "category": "Education",
+      "card_background_color": " #ffcccc",
+      "category_background_color": "#ff9999",
+      "text_color": "#ff3333",
+      "donate_and_view_details_btn_bg_color": "#ff0000"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/3M3dPJn/Education.png",
+      "title": "Good education",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources.",
+      "donation_amount": 330,
+      "category": "Education",
+      "card_background_color": " #ffcccc",
+      "category_background_color": "#ff9999",
+      "text_color": "#ff3333",
+      "donate_and_view_details_btn_bg_color": "#ff0000"
+    },
+   
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/4T8FGyp/Health.png",
+      "title": "Clean water for children",
+      "description": "Help provide clean and safe drinking water to communities in need.",
+      "donation_amount": 330,
+      "category": "Health",
+      "card_background_color": "#cce0ff",
+      "category_background_color": "#99c2ff",
+      "text_color": "#3385ff",
+      "donate_and_view_details_btn_bg_color": " #0066ff"
+    },
+    
+    {
+      "id": 10,
+      "image": "https://i.ibb.co/3M3dPJn/Education.png",
+      "title": "Good education",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources.",
+      "donation_amount": 595,
+      "category": "Education",
+      "card_background_color": " #ffcccc",
+      "category_background_color": "#ff9999",
+      "text_color": "#ff3333",
+      "donate_and_view_details_btn_bg_color": "#ff0000"
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co/6BjFf5N/Food.png",
+      "title": "Better Food for Everyone",
+      "description": "Help us fight hunger in our community. Donate food, make a difference.",
+      "donation_amount": 645,
+      "category": "Food",
+      "card_background_color": "#ffe0cc",
+      "category_background_color": "#ffc299",
+      "text_color": "#ff8533",
+      "donate_and_view_details_btn_bg_color": "#ff751a"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/Jdsr1WZ/Clothing.png",
+      "title": "Used Clothing Drive",
+      "description": "Join our clothing donation campaign and make a difference in the lives of those in need. Your gently used clothing can provide warmth and comfort to individuals facing challenging circumstances. Together, we can help ensure that everyone has access to clean and suitable clothing. Donate today and be a part of a positive change in our community.",
+      "donation_amount": 400,
+      "category": "Clothing",
+      "card_background_color": "#ccffcc",
+      "category_background_color": "#99ff99",
+      "text_color": "#33ff33",
+      "donate_and_view_details_btn_bg_color": "#00ff00"
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co/4T8FGyp/Health.png",
+      "title": "Clean water for children",
+      "description": "Help provide clean and safe drinking water to communities in need.",
+      "donation_amount": 225,
+      "category": "Health",
+      "card_background_color": "#cce0ff",
+      "category_background_color": "#99c2ff",
+      "text_color": "#3385ff",
+      "donate_and_view_details_btn_bg_color": " #0066ff"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/6BjFf5N/Food.png",
+      "title": "Better Food for Everyone",
+      "description": "Help us fight hunger in our community. Donate food, make a difference.",
+      "donation_amount": 120,
+      "category": "Food",
+      "card_background_color": "#ffe0cc",
+      "category_background_color": "#ffc299",
+      "text_color": "#ff8533",
+      "donate_and_view_details_btn_bg_color": "#ff751a"
+    }
+  ]
+  
