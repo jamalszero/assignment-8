@@ -1,15 +1,13 @@
-import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import PropTypes from 'prop-types';
 
 
 const Card = ({card}) => {
 
     const {id, image, title, category, card_background_color, category_background_color, text_color} = card;
 
-    
-
     return (
-        <Link to={`/details/${id}`}>
+        <Link to={`/details/${id}`} >
             <div className="card card-compact" style={{backgroundColor: card_background_color}}>
                 <figure><img className="w-full" src={image} alt="" /></figure>
                 
@@ -21,5 +19,9 @@ const Card = ({card}) => {
         </Link>
     );
 };
+
+Card.propTypes = {
+    card: PropTypes.object
+  };
 
 export default Card;

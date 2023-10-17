@@ -11,7 +11,7 @@ const Navbar = () => {
                     </a>
                 </div>
                 <div className="flex-none">
-                    <ul className=" menu-horizontal gap-14">
+                    <ul className=" menu-horizontal gap-14 ">
 
                         <li><NavLink to="/">Home</NavLink></li>
                         <li><NavLink to="donation">Donation</NavLink></li>
